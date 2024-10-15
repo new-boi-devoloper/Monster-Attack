@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1adb528ca3f8bb45a9ebbd260245c6d, type: 3}
+  m_Name: GreenAttack1351
+  m_EditorClassIdentifier: 
+  attackSprite: {fileID: 331624240, guid: f7717b998ed73aa40a3d51172786386c, type: 3}
+  cost: 800
+  attackId: 1351
+  attackType: 1
+  attackMultiplier: 20
+  attackParticleSystemPrefab: {fileID: 4722163914016703528, guid: e3d75f63e09c2404e90e5a461a5ba8a8, type: 3}

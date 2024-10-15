@@ -1,0 +1,17 @@
+{
+  "idSave": 1789,
+  "isFirstSession": false,
+  "language": "ru",
+  "promptDone": false,
+  "money": 1,
+  "newPlayerName": "Hello!",
+  "openLevels": [
+    false,
+    true,
+    false
+  ],
+  "CoinCount": 35,
+  "EnemiesKilledByUser": 7,
+  "PurchasedAttacks": [],
+  "HealthBonus": 0.0
+}
